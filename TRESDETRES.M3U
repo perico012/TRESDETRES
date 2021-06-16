@@ -1,7 +1,80 @@
-#EXTM3U
-#EXTINF:-1 ,AMC
-https://blackghost.live/play/globaltv-609.php?c=26|User-Agent=Token=DarkPlayvabloqueadotuusuariosnndNCPyUmmhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfggLsanndNCPyUmq1mhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntiiilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfjHqkHqkahauggLsanndNCP7yUmmedhLRcGnJGSwnSDtmecMfsBQajzjoaoiayqjqjoak9877AkHqkIgaosbqikAXd
-#EXTINF:-1 ,AMC  FHD
-http://latinoamericatv.vip:8080/9/9/1283#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/amclatino.png"group-title="BrEiTV.COM 01", AMC LATINO en Vivo Online Gratis
-#EXTINF:-1 ,AMC HD
-https://blackghost.live/play/totalp1-609.php?c=131&p=3&k=black&f=.m3u8
+#EXTM3U 
+#EXTINF: -1, AZTECA 1
+http://ps3u.ga/m3u/Lista01/latinos/azteca/index.m3u8
+#EXTINF: -1, AZTECA SIETE 
+http://ps3u.ga/m3u/Lista01/latinos/azteca7/index.m3u8
+#EXTINF: -1, AZTECA MAS
+http://ps3u.ga/m3u/Lista01/latinos/aztecamas/index.m3u8
+#EXTINF: -1, CINE AZTECA 
+http://ps3u.ga/m3u/Lista01/latinos/aztecacinema/index.m3u8
+#EXTINF: -1, AZTECA MUNDO 
+http://ps3u.ga/m3u/Lista01/latinos/aztecamundo/index.m3u8
+#EXTINF: -1, AZTECA CORAZON 
+http://ps3u.ga/m3u/Lista01/latinos/aztecacorazon/index.m3u8
+#EXTINF: -1, CANAL LAS ESTRELLAS 
+http://ps3u.ga/m3u/Lista01/latinos/canalestrellas/index.m3u8
+#EXTINF: -1, TLNOVELAS 
+http://ps3u.ga/m3u/Lista01/latinos/telenovelas/index.m3u8
+#EXTINF: -1, MTV LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/mtv/index.m3u8
+#EXTINF: -1, FOX LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/fox/index.m3u8
+#EXTINF: -1, ACCIÓN PREMIUM DE FOX 
+http://ps3u.ga/m3u/Lista01/latinos/foxaction/index.m3u8
+#EXTINF: -1, SERIE FOX PREMIUM 
+http://ps3u.ga/m3u/Lista01/latinos/foxseries/index.m3u8
+#EXTINF: -1, FAMILIA FOX PREMIUM 
+http://ps3u.ga/m3u/Lista01/latinos/foxfamily/index.m3u8
+#EXTINF: -1, FOX PREMIUM CINEMA 
+http://ps3u.ga/m3u/Lista01/latinos/foxcinema/index.m3u8
+#EXTINF: -1, COMEDIA PREMIUM DE FOX 
+http://ps3u.ga/m3u/Lista01/latinos/foxcomedy/index.m3u8
+#EXTINF: -1, CLÁSICOS PREMIUM DE FOX 
+http://ps3u.ga/m3u/Lista01/latinos/foxclassics/index.m3u8
+#EXTINF: -1, PELÍCULAS PREMIUM DE FOX 
+http://ps3u.ga/m3u/Lista01/latinos/foxmovies/index.m3u8
+#EXTINF: -1, FOX LIFE LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/foxlife/index.m3u8
+#EXTINF: -1, HBO LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/hbo/index.m3u8
+#EXTINF: -1, HBO 2 
+http://ps3u.ga/m3u/Lista01/latinos/hbo2/index.m3u8
+#EXTINF: -1, HBO PLUS 
+http://ps3u.ga/m3u/Lista01/latinos/hboplus/index.m3u8
+#EXTINF: -1, FAMILIA HBO 
+http://ps3u.ga/m3u/Lista01/latinos/hbofamily/index.m3u8
+#EXTINF: -1, FIRMA DE HBO
+http://ps3u.ga/m3u/Lista01/latinos/hbosignature/index.m3u8
+#EXTINF: -1, HBO XTREME 
+http://ps3u.ga/m3u/Lista01/latinos/maxprime/index.m3u8
+#EXTINF: -1, HBO MUNDI 
+http://ps3u.ga/m3u/Lista01/latinos/maxlatino/index.m3u8
+#EXTINF: -1, HBO POP 
+http://ps3u.ga/m3u/Lista01/latinos/maxup/index.m3u8
+#EXTINF: -1, DORADO 
+http://ps3u.ga/m3u/Lista01/latinos/golden/index.m3u8
+#EXTINF: -1, DORADO MÁS 
+http://ps3u.ga/m3u/Lista01/latinos/goldenplus/index.m3u8
+#EXTINF: -1, BORDE DORADO 
+http://ps3u.ga/m3u/Lista01/latinos/goldenedge/index.m3u8
+#EXTINF: -1, CINEMAX 
+http://ps3u.ga/m3u/Lista01/latinos/cinemax/index.m3u8
+#EXTINF: -1, CINECANAL 
+http://ps3u.ga/m3u/Lista01/latinos/cinecanal/index.m3u8
+#EXTINF: -1, TNT LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/tnt/index.m3u8
+#EXTINF: -1:, SERIE TNT 
+http://ps3u.ga/m3u/Lista01/latinos/tntseries/index.m3u8
+#EXTINF: -1, AXN LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/axn/index.m3u8
+#EXTINF: -1, AMC LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/amc/index.m3u8
+#EXTINF: -1, TCM LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/tcm/index.m3u8
+#EXTINF: -1, SYFY LATINO 
+http://ps3u.ga/m3u/Lista01/latinos/syfy/index.m3u8
+#EXTINF: -1, FXM 
+http://ps3u.ga/m3u/Lista01/latinos/fxm/index.m3u8
+#EXTINF: -1, FX 
+http://ps3u.ga/m3u/Lista01/latinos/fx/index.m3u8
+#EXTINF: -1, ESPACIO 
