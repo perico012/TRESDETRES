@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:0,AMC (Mexico) (🇲🇽)
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
@@ -76,7 +76,4 @@ http://181.189.244.253:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Movies",Golden Latinoamérica (1080p) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
-
-
-
 
